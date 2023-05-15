@@ -20,7 +20,7 @@ You'll also learn how to:
 - Implement sending emails through a form on the website
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
 
-## Want to land your dream programming job in 3 - 6 months?
+## Want to Learn New Technologies and Deployment ?
 ⭐ Follow me in LinkedIn - (https://www.linkedin.com/in/kunal-roy-961239163/)      
 
 ⭐ Follow me in Github - (https://github.com/Prof-Kunal-Roy)
