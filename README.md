@@ -21,7 +21,8 @@ You'll also learn how to:
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
 
 ## Want to land your dream programming job in 3 - 6 months?
-⭐ Follow me in LinkedIn - (https://www.linkedin.com/in/kunal-roy-961239163/)
+⭐ Follow me in LinkedIn - (https://www.linkedin.com/in/kunal-roy-961239163/)      
+
 ⭐ Follow me in Github - (https://github.com/Prof-Kunal-Roy)
 
 
